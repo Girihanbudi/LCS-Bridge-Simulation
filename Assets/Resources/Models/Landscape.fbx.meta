@@ -1,0 +1,2068 @@
+fileFormatVersion: 2
+guid: 234d29863a063f54280071363bfa8a30
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 8453088024910507617
+    second: City_building_001|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: 7558684985174188794
+    second: City_building_001|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 3697670362996287640
+    second: City_building_001|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -8947411078983573648
+    second: City_building_001|Camera001|Take 001|BaseLayer
+  - first:
+      74: -3371499428308800761
+    second: City_building_001|City_building_001|Take 001|BaseLayer
+  - first:
+      74: 7572349561094581290
+    second: City_building_001|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: 3940218627053477382
+    second: City_building_001|City_building_004|Take 001|BaseLayer
+  - first:
+      74: 2247563307652872770
+    second: City_building_001|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: 1426711178789328771
+    second: City_building_001|City_building_007|Take 001|BaseLayer
+  - first:
+      74: 17274920279075499
+    second: City_building_001|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: 7807571413772590610
+    second: City_building_001|City_building_008|Take 001|BaseLayer
+  - first:
+      74: 3079573334070299994
+    second: City_building_001|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: 3080198326256520898
+    second: City_building_001|City_building_010|Take 001|BaseLayer
+  - first:
+      74: 3937932675394453137
+    second: City_building_001|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: -569175713137503313
+    second: City_building_001|City_building_011|Take 001|BaseLayer
+  - first:
+      74: -3697115325867604261
+    second: City_building_001|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: 8018108658710414846
+    second: City_building_001|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: -3625226603015026519
+    second: City_building_001|City_building_013|Take 001|BaseLayer
+  - first:
+      74: 2900836476727445640
+    second: City_building_001|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: -123354109877155089
+    second: City_building_001|City_building_014|Take 001|BaseLayer
+  - first:
+      74: 5383019420749331763
+    second: City_building_001|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: 3121224603915501474
+    second: City_building_001|City_building_016|Take 001|BaseLayer
+  - first:
+      74: -1625441076177588847
+    second: City_building_001|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: 4353009744542196544
+    second: City_building_001|City_building_017|Take 001|BaseLayer
+  - first:
+      74: 1663222979759974093
+    second: City_building_001|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: -5551577034005397511
+    second: City_building_001|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 7054659293444902509
+    second: City_building_001|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: 8210246971810411667
+    second: City_building_001|City_building_023|Take 001|BaseLayer
+  - first:
+      74: 1086061538215140151
+    second: City_building_001|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: 2733320752109408201
+    second: City_building_001|City_building_024|Take 001|BaseLayer
+  - first:
+      74: -4046370902985693484
+    second: City_building_001|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: -1859617893043681930
+    second: City_building_001|City_building_026|Take 001|BaseLayer
+  - first:
+      74: -7333079109877370961
+    second: City_building_001|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: 875776214525494600
+    second: City_building_001|City_building_028|Take 001|BaseLayer
+  - first:
+      74: 1050834777322931717
+    second: City_building_001|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: -2782757657692329825
+    second: City_building_001|City_building_030|Take 001|BaseLayer
+  - first:
+      74: 8934087713433299806
+    second: City_building_001|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: 7287566124130336212
+    second: City_building_001|City_building_031|Take 001|BaseLayer
+  - first:
+      74: 422945439458960671
+    second: City_building_001|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: -6007263089383569434
+    second: City_building_001|City_building_032|Take 001|BaseLayer
+  - first:
+      74: -8686680280097250236
+    second: City_building_001|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: 186884295384993634
+    second: City_building_001|City_building_033|Take 001|BaseLayer
+  - first:
+      74: -288515740540188845
+    second: City_building_001|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: -3380637176820089067
+    second: City_building_001|City_building_034|Take 001|BaseLayer
+  - first:
+      74: 1557933102257001690
+    second: City_building_001|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: 7606651673067762511
+    second: City_building_001|City_building_035|Take 001|BaseLayer
+  - first:
+      74: 4140566198260813616
+    second: City_building_001|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 5731612627547733316
+    second: City_building_001|City_building_036|Take 001|BaseLayer
+  - first:
+      74: 7572105439527080077
+    second: City_building_001|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: 5349899370578709710
+    second: City_building_001|City_building_037|Take 001|BaseLayer
+  - first:
+      74: -1141408645616412918
+    second: City_building_001|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: 4508082298586912686
+    second: City_building_001|City_building_038|Take 001|BaseLayer
+  - first:
+      74: -5652509144459946963
+    second: City_building_001|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: 4289722365719013834
+    second: City_building_001|City_building_039|Take 001|BaseLayer
+  - first:
+      74: 7743961533697860063
+    second: City_building_001|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: -7876356225209982709
+    second: City_building_001|City_building_040|Take 001|BaseLayer
+  - first:
+      74: 7660357970314345666
+    second: City_building_001|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: 3438543303388666515
+    second: City_building_001|City_building_041|Take 001|BaseLayer
+  - first:
+      74: 276140413455342073
+    second: City_building_001|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: -1309396838434689827
+    second: City_building_001|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: -1837554184761784075
+    second: City_building_001|Dummy001|Take 001|BaseLayer
+  - first:
+      74: -641049400054332897
+    second: City_building_001|Line002|Take 001|BaseLayer
+  - first:
+      74: 4350045082928329103
+    second: City_building_001|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 6168919274274029744
+    second: City_building_001|Object010|Take 001|BaseLayer
+  - first:
+      74: 4345739081669437718
+    second: City_building_001|Object010|Take 001|BaseLayer.001
+  - first:
+      74: -7630170611809701436
+    second: City_building_001|Plane001|Take 001|BaseLayer
+  - first:
+      74: -1461916777202891468
+    second: City_building_001|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -2429810351375867953
+    second: City_building_001|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: 2475726756328704564
+    second: City_building_001|Sky001|Take 001|BaseLayer
+  - first:
+      74: -498105227614837113
+    second: City_building_001|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: 7703572972873170977
+    second: City_building_001|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -5202200523944764328
+    second: City_building_001|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: -5775621152257262474
+    second: City_building_001|Spot001|Take 001|BaseLayer
+  - first:
+      74: -8987985156183938929
+    second: City_building_007|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: -2522289589659835497
+    second: City_building_007|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 5851134779679230099
+    second: City_building_007|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -6059831865050950743
+    second: City_building_007|Camera001|Take 001|BaseLayer
+  - first:
+      74: -458657739254402051
+    second: City_building_007|City_building_001|Take 001|BaseLayer
+  - first:
+      74: -1415772303290096069
+    second: City_building_007|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: -8801978766358459397
+    second: City_building_007|City_building_004|Take 001|BaseLayer
+  - first:
+      74: -9199124527328324753
+    second: City_building_007|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: -6982761054552986866
+    second: City_building_007|City_building_007|Take 001|BaseLayer
+  - first:
+      74: 6553909730877529085
+    second: City_building_007|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: -8211292279036422863
+    second: City_building_007|City_building_008|Take 001|BaseLayer
+  - first:
+      74: 8748937627685963497
+    second: City_building_007|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: -294549119114809555
+    second: City_building_007|City_building_010|Take 001|BaseLayer
+  - first:
+      74: -93353282310294788
+    second: City_building_007|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: -3377365299614803154
+    second: City_building_007|City_building_011|Take 001|BaseLayer
+  - first:
+      74: 2459526273697051853
+    second: City_building_007|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: -4202396025731817159
+    second: City_building_007|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: 5135126265116805180
+    second: City_building_007|City_building_013|Take 001|BaseLayer
+  - first:
+      74: 310225247689060303
+    second: City_building_007|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: -7527318411004407457
+    second: City_building_007|City_building_014|Take 001|BaseLayer
+  - first:
+      74: 858524140778062260
+    second: City_building_007|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: -187987053701850410
+    second: City_building_007|City_building_016|Take 001|BaseLayer
+  - first:
+      74: 6322665216610106406
+    second: City_building_007|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: -6465835657807620108
+    second: City_building_007|City_building_017|Take 001|BaseLayer
+  - first:
+      74: -5634424151652416894
+    second: City_building_007|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: 9057286954832014254
+    second: City_building_007|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 3346995763665994802
+    second: City_building_007|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: -4744729623441075738
+    second: City_building_007|City_building_023|Take 001|BaseLayer
+  - first:
+      74: -7475323216062153360
+    second: City_building_007|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: -85321079747454035
+    second: City_building_007|City_building_024|Take 001|BaseLayer
+  - first:
+      74: -1017673199952098703
+    second: City_building_007|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: -6196969472908628682
+    second: City_building_007|City_building_026|Take 001|BaseLayer
+  - first:
+      74: 7244328019578749820
+    second: City_building_007|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: 2000493583113240231
+    second: City_building_007|City_building_028|Take 001|BaseLayer
+  - first:
+      74: 3027881122825648155
+    second: City_building_007|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: -251805802277785219
+    second: City_building_007|City_building_030|Take 001|BaseLayer
+  - first:
+      74: -6459270608481088672
+    second: City_building_007|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: 7030858300076579676
+    second: City_building_007|City_building_031|Take 001|BaseLayer
+  - first:
+      74: 4468729355321357195
+    second: City_building_007|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: 6048665170327180760
+    second: City_building_007|City_building_032|Take 001|BaseLayer
+  - first:
+      74: 2802333212788769390
+    second: City_building_007|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: -8412741181756448726
+    second: City_building_007|City_building_033|Take 001|BaseLayer
+  - first:
+      74: 4805979797163689499
+    second: City_building_007|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: 2902625008174958406
+    second: City_building_007|City_building_034|Take 001|BaseLayer
+  - first:
+      74: -403162091227965955
+    second: City_building_007|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: -5047467186917843445
+    second: City_building_007|City_building_035|Take 001|BaseLayer
+  - first:
+      74: 5955303681766919102
+    second: City_building_007|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 7079170744815571545
+    second: City_building_007|City_building_036|Take 001|BaseLayer
+  - first:
+      74: -8004204246608309439
+    second: City_building_007|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: 1885526166407439218
+    second: City_building_007|City_building_037|Take 001|BaseLayer
+  - first:
+      74: -5672879352410147981
+    second: City_building_007|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: 381349791383640334
+    second: City_building_007|City_building_038|Take 001|BaseLayer
+  - first:
+      74: 3145159013240474040
+    second: City_building_007|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: 2389929670895474106
+    second: City_building_007|City_building_039|Take 001|BaseLayer
+  - first:
+      74: 499048201735633318
+    second: City_building_007|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: -212296794609476376
+    second: City_building_007|City_building_040|Take 001|BaseLayer
+  - first:
+      74: -1630364506596658813
+    second: City_building_007|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: -5234438213409130157
+    second: City_building_007|City_building_041|Take 001|BaseLayer
+  - first:
+      74: -8221074603502256996
+    second: City_building_007|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: 4625860203856889645
+    second: City_building_007|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: 561679090330116673
+    second: City_building_007|Dummy001|Take 001|BaseLayer
+  - first:
+      74: -5321145180031514572
+    second: City_building_007|Line002|Take 001|BaseLayer
+  - first:
+      74: -2163525231966565352
+    second: City_building_007|Line002|Take 001|BaseLayer.001
+  - first:
+      74: -6120812825753222776
+    second: City_building_007|Object010|Take 001|BaseLayer
+  - first:
+      74: 4150623332600338565
+    second: City_building_007|Object010|Take 001|BaseLayer.001
+  - first:
+      74: -2504575485296559847
+    second: City_building_007|Plane001|Take 001|BaseLayer
+  - first:
+      74: 7368058812280907402
+    second: City_building_007|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -831983804869941538
+    second: City_building_007|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: 5634370342351374570
+    second: City_building_007|Sky001|Take 001|BaseLayer
+  - first:
+      74: 1002203610273733541
+    second: City_building_007|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: 461612322377858847
+    second: City_building_007|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 3943325356894510837
+    second: City_building_007|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: 86430889666471191
+    second: City_building_007|Spot001|Take 001|BaseLayer
+  - first:
+      74: -736723308502705296
+    second: City_building_008|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: 5349115392231373564
+    second: City_building_008|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -6080188694130792204
+    second: City_building_008|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -1772877060476674244
+    second: City_building_008|Camera001|Take 001|BaseLayer
+  - first:
+      74: 2923856782285701716
+    second: City_building_008|City_building_001|Take 001|BaseLayer
+  - first:
+      74: 256276607836728457
+    second: City_building_008|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: -8064242927384469603
+    second: City_building_008|City_building_004|Take 001|BaseLayer
+  - first:
+      74: 1344074014121371308
+    second: City_building_008|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: 1786084586738766574
+    second: City_building_008|City_building_007|Take 001|BaseLayer
+  - first:
+      74: 2206730973448295841
+    second: City_building_008|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: -2611957800095449496
+    second: City_building_008|City_building_008|Take 001|BaseLayer
+  - first:
+      74: 8795885895596394927
+    second: City_building_008|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: -7252637096946199786
+    second: City_building_008|City_building_010|Take 001|BaseLayer
+  - first:
+      74: -4988177949510326670
+    second: City_building_008|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: -2643222145499420373
+    second: City_building_008|City_building_011|Take 001|BaseLayer
+  - first:
+      74: 1304579980552660641
+    second: City_building_008|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: -4855163385576457723
+    second: City_building_008|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: 6039104010879698839
+    second: City_building_008|City_building_013|Take 001|BaseLayer
+  - first:
+      74: 4665697477265550980
+    second: City_building_008|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: -421263622480561263
+    second: City_building_008|City_building_014|Take 001|BaseLayer
+  - first:
+      74: -4266081716645333107
+    second: City_building_008|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: 747683846675792602
+    second: City_building_008|City_building_016|Take 001|BaseLayer
+  - first:
+      74: 1971516769504591451
+    second: City_building_008|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: -346287212379440268
+    second: City_building_008|City_building_017|Take 001|BaseLayer
+  - first:
+      74: 5989162852307260036
+    second: City_building_008|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: -3086824686217671433
+    second: City_building_008|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 8087540637971124388
+    second: City_building_008|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: -2324156684394057567
+    second: City_building_008|City_building_023|Take 001|BaseLayer
+  - first:
+      74: 2598184059768633084
+    second: City_building_008|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: 7433868012592577461
+    second: City_building_008|City_building_024|Take 001|BaseLayer
+  - first:
+      74: 9022347852731415552
+    second: City_building_008|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: 4423478932140234256
+    second: City_building_008|City_building_026|Take 001|BaseLayer
+  - first:
+      74: 1997205112507018923
+    second: City_building_008|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: -6240937903852627504
+    second: City_building_008|City_building_028|Take 001|BaseLayer
+  - first:
+      74: 7921319617125931118
+    second: City_building_008|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: 4118120811046425240
+    second: City_building_008|City_building_030|Take 001|BaseLayer
+  - first:
+      74: 4107598802707303202
+    second: City_building_008|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: -1855400106922100989
+    second: City_building_008|City_building_031|Take 001|BaseLayer
+  - first:
+      74: -5251177194280238816
+    second: City_building_008|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: 2109334874954168489
+    second: City_building_008|City_building_032|Take 001|BaseLayer
+  - first:
+      74: -243421255193070884
+    second: City_building_008|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: 2871469753603852586
+    second: City_building_008|City_building_033|Take 001|BaseLayer
+  - first:
+      74: -3316980757755159655
+    second: City_building_008|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: 1222805981738314883
+    second: City_building_008|City_building_034|Take 001|BaseLayer
+  - first:
+      74: 5088442586018753340
+    second: City_building_008|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: 4957611997008964353
+    second: City_building_008|City_building_035|Take 001|BaseLayer
+  - first:
+      74: -8897798254316331201
+    second: City_building_008|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 4162569647986877756
+    second: City_building_008|City_building_036|Take 001|BaseLayer
+  - first:
+      74: -921664380374692785
+    second: City_building_008|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: -2064818505916113329
+    second: City_building_008|City_building_037|Take 001|BaseLayer
+  - first:
+      74: 8066677970217587967
+    second: City_building_008|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: 7458478454296874670
+    second: City_building_008|City_building_038|Take 001|BaseLayer
+  - first:
+      74: -5460989017687622557
+    second: City_building_008|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: -525924843670434980
+    second: City_building_008|City_building_039|Take 001|BaseLayer
+  - first:
+      74: -1167700092709000928
+    second: City_building_008|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: 2928540655200797465
+    second: City_building_008|City_building_040|Take 001|BaseLayer
+  - first:
+      74: -8317627192542320582
+    second: City_building_008|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: -2719549827284559458
+    second: City_building_008|City_building_041|Take 001|BaseLayer
+  - first:
+      74: 516860350058026139
+    second: City_building_008|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: -5453460814953886932
+    second: City_building_008|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: -7118409402469043929
+    second: City_building_008|Dummy001|Take 001|BaseLayer
+  - first:
+      74: 5106903620881015133
+    second: City_building_008|Line002|Take 001|BaseLayer
+  - first:
+      74: 5869113687068261609
+    second: City_building_008|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 8151144288512398957
+    second: City_building_008|Object010|Take 001|BaseLayer
+  - first:
+      74: -1227053459456421168
+    second: City_building_008|Object010|Take 001|BaseLayer.001
+  - first:
+      74: -6789743587791813193
+    second: City_building_008|Plane001|Take 001|BaseLayer
+  - first:
+      74: -7435550207218085617
+    second: City_building_008|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -8528121334131672864
+    second: City_building_008|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: -2737826546034031632
+    second: City_building_008|Sky001|Take 001|BaseLayer
+  - first:
+      74: 6546490721239811678
+    second: City_building_008|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: -7110341150874823118
+    second: City_building_008|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -8246108489993844992
+    second: City_building_008|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: 4056343965440575777
+    second: City_building_008|Spot001|Take 001|BaseLayer
+  - first:
+      74: 3091905323906662945
+    second: City_building_011|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: 3590125940780604587
+    second: City_building_011|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -3683287613956965760
+    second: City_building_011|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -695531004334145887
+    second: City_building_011|Camera001|Take 001|BaseLayer
+  - first:
+      74: 6954923275301185312
+    second: City_building_011|City_building_001|Take 001|BaseLayer
+  - first:
+      74: -4361954433954962760
+    second: City_building_011|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: -4440041261751972657
+    second: City_building_011|City_building_004|Take 001|BaseLayer
+  - first:
+      74: -6058912318260338724
+    second: City_building_011|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: 5517562962511448631
+    second: City_building_011|City_building_007|Take 001|BaseLayer
+  - first:
+      74: 5728047303260889606
+    second: City_building_011|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: -4526327930303873155
+    second: City_building_011|City_building_008|Take 001|BaseLayer
+  - first:
+      74: -1174414916905781509
+    second: City_building_011|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: 8144813846539978887
+    second: City_building_011|City_building_010|Take 001|BaseLayer
+  - first:
+      74: -362869892727274784
+    second: City_building_011|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: -3544907094882453353
+    second: City_building_011|City_building_011|Take 001|BaseLayer
+  - first:
+      74: -3297720164974285793
+    second: City_building_011|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: -647253319312178111
+    second: City_building_011|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: 1355879380393920139
+    second: City_building_011|City_building_013|Take 001|BaseLayer
+  - first:
+      74: 644150389995384434
+    second: City_building_011|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: 8734705828583046312
+    second: City_building_011|City_building_014|Take 001|BaseLayer
+  - first:
+      74: 479948130420899228
+    second: City_building_011|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: -6505885765653400310
+    second: City_building_011|City_building_016|Take 001|BaseLayer
+  - first:
+      74: -7557213326622322059
+    second: City_building_011|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: -6274123295646359167
+    second: City_building_011|City_building_017|Take 001|BaseLayer
+  - first:
+      74: -2136810073580398766
+    second: City_building_011|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: -593043086151368203
+    second: City_building_011|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 5042600350371189531
+    second: City_building_011|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: 2095614572000733129
+    second: City_building_011|City_building_023|Take 001|BaseLayer
+  - first:
+      74: 2270512866583213104
+    second: City_building_011|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: -4578511115745031444
+    second: City_building_011|City_building_024|Take 001|BaseLayer
+  - first:
+      74: 7418391794413364274
+    second: City_building_011|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: -2882014517309326586
+    second: City_building_011|City_building_026|Take 001|BaseLayer
+  - first:
+      74: 5423935897129153423
+    second: City_building_011|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: -2163169530060991256
+    second: City_building_011|City_building_028|Take 001|BaseLayer
+  - first:
+      74: 4136365831294698808
+    second: City_building_011|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: -7538455589848657102
+    second: City_building_011|City_building_030|Take 001|BaseLayer
+  - first:
+      74: 5449053838932315447
+    second: City_building_011|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: 6630450878564259584
+    second: City_building_011|City_building_031|Take 001|BaseLayer
+  - first:
+      74: -7776496737872212553
+    second: City_building_011|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: 2278196093444697540
+    second: City_building_011|City_building_032|Take 001|BaseLayer
+  - first:
+      74: -6766808221178792419
+    second: City_building_011|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: -4169613994448499913
+    second: City_building_011|City_building_033|Take 001|BaseLayer
+  - first:
+      74: -9123615382474735311
+    second: City_building_011|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: -8996752477422489682
+    second: City_building_011|City_building_034|Take 001|BaseLayer
+  - first:
+      74: 5114599540681281008
+    second: City_building_011|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: 8466469140884930377
+    second: City_building_011|City_building_035|Take 001|BaseLayer
+  - first:
+      74: 291746896357932464
+    second: City_building_011|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 456460454380988692
+    second: City_building_011|City_building_036|Take 001|BaseLayer
+  - first:
+      74: -2399622699407307492
+    second: City_building_011|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: 2187678606409986928
+    second: City_building_011|City_building_037|Take 001|BaseLayer
+  - first:
+      74: 3087937865406869747
+    second: City_building_011|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: 5596386366684107496
+    second: City_building_011|City_building_038|Take 001|BaseLayer
+  - first:
+      74: -3363100840454014511
+    second: City_building_011|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: -5120725723218031561
+    second: City_building_011|City_building_039|Take 001|BaseLayer
+  - first:
+      74: 5284842822674862150
+    second: City_building_011|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: 8198285987401943893
+    second: City_building_011|City_building_040|Take 001|BaseLayer
+  - first:
+      74: -4133390299000380673
+    second: City_building_011|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: -1372128607749280950
+    second: City_building_011|City_building_041|Take 001|BaseLayer
+  - first:
+      74: 3975416596854434155
+    second: City_building_011|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: -358184507220224808
+    second: City_building_011|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: 189578431579628306
+    second: City_building_011|Dummy001|Take 001|BaseLayer
+  - first:
+      74: -7833660359941658814
+    second: City_building_011|Line002|Take 001|BaseLayer
+  - first:
+      74: -7241716324968284249
+    second: City_building_011|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 6736157865268026426
+    second: City_building_011|Object010|Take 001|BaseLayer
+  - first:
+      74: -6477617080175621676
+    second: City_building_011|Object010|Take 001|BaseLayer.001
+  - first:
+      74: -8720302387227081339
+    second: City_building_011|Plane001|Take 001|BaseLayer
+  - first:
+      74: -4515584338532593197
+    second: City_building_011|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -6596430423441732916
+    second: City_building_011|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: 1352825651417184651
+    second: City_building_011|Sky001|Take 001|BaseLayer
+  - first:
+      74: 2090483406891468131
+    second: City_building_011|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: -7653765478256224773
+    second: City_building_011|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 1393110701124371330
+    second: City_building_011|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: -6222372137068450801
+    second: City_building_011|Spot001|Take 001|BaseLayer
+  - first:
+      74: 8515164642190013223
+    second: City_building_013|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: -6490514151700442007
+    second: City_building_013|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 1143551883493338853
+    second: City_building_013|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -2857862119143234935
+    second: City_building_013|Camera001|Take 001|BaseLayer
+  - first:
+      74: 7368571698470907805
+    second: City_building_013|City_building_001|Take 001|BaseLayer
+  - first:
+      74: -6245331686096711856
+    second: City_building_013|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: -5954084961700200370
+    second: City_building_013|City_building_004|Take 001|BaseLayer
+  - first:
+      74: -9146817433398856284
+    second: City_building_013|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: 4740435156061702560
+    second: City_building_013|City_building_007|Take 001|BaseLayer
+  - first:
+      74: 8416173157637096985
+    second: City_building_013|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: -3537654392964583847
+    second: City_building_013|City_building_008|Take 001|BaseLayer
+  - first:
+      74: 1196221586961435511
+    second: City_building_013|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: 2155831751991896940
+    second: City_building_013|City_building_010|Take 001|BaseLayer
+  - first:
+      74: -1521173963508123187
+    second: City_building_013|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: -5380786795928915475
+    second: City_building_013|City_building_011|Take 001|BaseLayer
+  - first:
+      74: 533823247798484974
+    second: City_building_013|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: 4377008449690529530
+    second: City_building_013|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: 358903597301413179
+    second: City_building_013|City_building_013|Take 001|BaseLayer
+  - first:
+      74: -8515154896116738717
+    second: City_building_013|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: 970734626074396699
+    second: City_building_013|City_building_014|Take 001|BaseLayer
+  - first:
+      74: 8638283986486599025
+    second: City_building_013|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: 5800029824133383332
+    second: City_building_013|City_building_016|Take 001|BaseLayer
+  - first:
+      74: 1668740685471490024
+    second: City_building_013|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: -8699382645244995963
+    second: City_building_013|City_building_017|Take 001|BaseLayer
+  - first:
+      74: -7475772265768482667
+    second: City_building_013|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: 6272319393044763237
+    second: City_building_013|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 5613160549304379316
+    second: City_building_013|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: -514964059069497119
+    second: City_building_013|City_building_023|Take 001|BaseLayer
+  - first:
+      74: 5052235459808078932
+    second: City_building_013|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: 5605463803761524559
+    second: City_building_013|City_building_024|Take 001|BaseLayer
+  - first:
+      74: 8730483667754723493
+    second: City_building_013|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: 349431235516472201
+    second: City_building_013|City_building_026|Take 001|BaseLayer
+  - first:
+      74: 8398289783333910837
+    second: City_building_013|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: 6626937877831593994
+    second: City_building_013|City_building_028|Take 001|BaseLayer
+  - first:
+      74: -1237171857375348184
+    second: City_building_013|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: -6957209407599409772
+    second: City_building_013|City_building_030|Take 001|BaseLayer
+  - first:
+      74: -7337277116039900585
+    second: City_building_013|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: 7670808518414374713
+    second: City_building_013|City_building_031|Take 001|BaseLayer
+  - first:
+      74: 7221053685145640308
+    second: City_building_013|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: -4743039434758600259
+    second: City_building_013|City_building_032|Take 001|BaseLayer
+  - first:
+      74: -1330542474159918198
+    second: City_building_013|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: 6527602899334087898
+    second: City_building_013|City_building_033|Take 001|BaseLayer
+  - first:
+      74: 4748060395737108854
+    second: City_building_013|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: -1957210858153886246
+    second: City_building_013|City_building_034|Take 001|BaseLayer
+  - first:
+      74: -810042227145067597
+    second: City_building_013|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: -1412707972908425795
+    second: City_building_013|City_building_035|Take 001|BaseLayer
+  - first:
+      74: 206686192195020703
+    second: City_building_013|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 2024862224083246550
+    second: City_building_013|City_building_036|Take 001|BaseLayer
+  - first:
+      74: 9113792167497383610
+    second: City_building_013|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: -3974216387909271439
+    second: City_building_013|City_building_037|Take 001|BaseLayer
+  - first:
+      74: 2416532619718963938
+    second: City_building_013|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: -8725776203507409595
+    second: City_building_013|City_building_038|Take 001|BaseLayer
+  - first:
+      74: -8163131958928846749
+    second: City_building_013|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: 4290427592210937179
+    second: City_building_013|City_building_039|Take 001|BaseLayer
+  - first:
+      74: -6209177588265421266
+    second: City_building_013|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: 559421631351457632
+    second: City_building_013|City_building_040|Take 001|BaseLayer
+  - first:
+      74: -990713159673910624
+    second: City_building_013|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: -1338634222287932149
+    second: City_building_013|City_building_041|Take 001|BaseLayer
+  - first:
+      74: -1384136123255454127
+    second: City_building_013|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: -8353541333155830711
+    second: City_building_013|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: 1088491503483561172
+    second: City_building_013|Dummy001|Take 001|BaseLayer
+  - first:
+      74: -8808259962734478036
+    second: City_building_013|Line002|Take 001|BaseLayer
+  - first:
+      74: 5791078891350924588
+    second: City_building_013|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 8921672386165044103
+    second: City_building_013|Object010|Take 001|BaseLayer
+  - first:
+      74: 8683022138895370874
+    second: City_building_013|Object010|Take 001|BaseLayer.001
+  - first:
+      74: 5265905600367611952
+    second: City_building_013|Plane001|Take 001|BaseLayer
+  - first:
+      74: 8125805452752949096
+    second: City_building_013|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -6965637560010844684
+    second: City_building_013|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: -8442056219543467984
+    second: City_building_013|Sky001|Take 001|BaseLayer
+  - first:
+      74: -5790401270579278619
+    second: City_building_013|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: -467075869065248464
+    second: City_building_013|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 7899441298039864237
+    second: City_building_013|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: -8427319800306667151
+    second: City_building_013|Spot001|Take 001|BaseLayer
+  - first:
+      74: -3535185363658223093
+    second: City_building_033|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: -3742380811833393064
+    second: City_building_033|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 8297270847965550499
+    second: City_building_033|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: 3495646625458345798
+    second: City_building_033|Camera001|Take 001|BaseLayer
+  - first:
+      74: -6388422191836363889
+    second: City_building_033|City_building_001|Take 001|BaseLayer
+  - first:
+      74: 2600838588072277369
+    second: City_building_033|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: 4682434371736512344
+    second: City_building_033|City_building_004|Take 001|BaseLayer
+  - first:
+      74: -2604504145940967464
+    second: City_building_033|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: -3048557106176958419
+    second: City_building_033|City_building_007|Take 001|BaseLayer
+  - first:
+      74: 6341300565421078842
+    second: City_building_033|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: 5215905383957593562
+    second: City_building_033|City_building_008|Take 001|BaseLayer
+  - first:
+      74: 177218296682566382
+    second: City_building_033|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: -1664284021227349103
+    second: City_building_033|City_building_010|Take 001|BaseLayer
+  - first:
+      74: -799890576853364399
+    second: City_building_033|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: 1600716900073220837
+    second: City_building_033|City_building_011|Take 001|BaseLayer
+  - first:
+      74: -2282550245621882708
+    second: City_building_033|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: 6902037288106053808
+    second: City_building_033|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: 5694730269999257424
+    second: City_building_033|City_building_013|Take 001|BaseLayer
+  - first:
+      74: 1074851924478587994
+    second: City_building_033|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: -3158967660763305868
+    second: City_building_033|City_building_014|Take 001|BaseLayer
+  - first:
+      74: 4267159408598408399
+    second: City_building_033|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: 1914520130682830284
+    second: City_building_033|City_building_016|Take 001|BaseLayer
+  - first:
+      74: 7831915606074677207
+    second: City_building_033|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: -3190045325793783614
+    second: City_building_033|City_building_017|Take 001|BaseLayer
+  - first:
+      74: -2770354443751911445
+    second: City_building_033|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: -3523360147210431219
+    second: City_building_033|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 2685282628029295133
+    second: City_building_033|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: -6097775714347896444
+    second: City_building_033|City_building_023|Take 001|BaseLayer
+  - first:
+      74: -379645216508198572
+    second: City_building_033|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: 5219117860724615645
+    second: City_building_033|City_building_024|Take 001|BaseLayer
+  - first:
+      74: 8656210019955426134
+    second: City_building_033|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: 5317756180241247912
+    second: City_building_033|City_building_026|Take 001|BaseLayer
+  - first:
+      74: -8735017397979960762
+    second: City_building_033|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: 4812081460624822262
+    second: City_building_033|City_building_028|Take 001|BaseLayer
+  - first:
+      74: -3575542161626874376
+    second: City_building_033|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: 3824039475753487157
+    second: City_building_033|City_building_030|Take 001|BaseLayer
+  - first:
+      74: -2830769109307822306
+    second: City_building_033|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: -2935924606823803001
+    second: City_building_033|City_building_031|Take 001|BaseLayer
+  - first:
+      74: -4306378475569526542
+    second: City_building_033|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: -8057031300144639722
+    second: City_building_033|City_building_032|Take 001|BaseLayer
+  - first:
+      74: 5204941772525051539
+    second: City_building_033|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: -5034536429057984008
+    second: City_building_033|City_building_033|Take 001|BaseLayer
+  - first:
+      74: 7288552995824390602
+    second: City_building_033|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: 103529243040775083
+    second: City_building_033|City_building_034|Take 001|BaseLayer
+  - first:
+      74: 4032537140635076915
+    second: City_building_033|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: -1314508262204664760
+    second: City_building_033|City_building_035|Take 001|BaseLayer
+  - first:
+      74: -1161489191953077483
+    second: City_building_033|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 4753604581682252730
+    second: City_building_033|City_building_036|Take 001|BaseLayer
+  - first:
+      74: 597069541000810939
+    second: City_building_033|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: 7541744618605231856
+    second: City_building_033|City_building_037|Take 001|BaseLayer
+  - first:
+      74: -4141138557860069597
+    second: City_building_033|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: -5845826924785514404
+    second: City_building_033|City_building_038|Take 001|BaseLayer
+  - first:
+      74: 7012568121850677665
+    second: City_building_033|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: 792203291793191127
+    second: City_building_033|City_building_039|Take 001|BaseLayer
+  - first:
+      74: 2594408741260423525
+    second: City_building_033|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: -77779202120799458
+    second: City_building_033|City_building_040|Take 001|BaseLayer
+  - first:
+      74: -7094903642888418560
+    second: City_building_033|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: 1328743120861205863
+    second: City_building_033|City_building_041|Take 001|BaseLayer
+  - first:
+      74: 6921189667953667770
+    second: City_building_033|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: 2684543364700566381
+    second: City_building_033|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: -7717897568568603974
+    second: City_building_033|Dummy001|Take 001|BaseLayer
+  - first:
+      74: 3638782076132714620
+    second: City_building_033|Line002|Take 001|BaseLayer
+  - first:
+      74: -2846361205064846107
+    second: City_building_033|Line002|Take 001|BaseLayer.001
+  - first:
+      74: -3302267203747797876
+    second: City_building_033|Object010|Take 001|BaseLayer
+  - first:
+      74: 3802248971570441807
+    second: City_building_033|Object010|Take 001|BaseLayer.001
+  - first:
+      74: 7903346487053884700
+    second: City_building_033|Plane001|Take 001|BaseLayer
+  - first:
+      74: 2838460856258153464
+    second: City_building_033|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -4175740275306798881
+    second: City_building_033|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: -7452472741632121903
+    second: City_building_033|Sky001|Take 001|BaseLayer
+  - first:
+      74: -5095755556663587269
+    second: City_building_033|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: -6391611217227665652
+    second: City_building_033|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 6641938153188718745
+    second: City_building_033|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: 101400173459254916
+    second: City_building_033|Spot001|Take 001|BaseLayer
+  - first:
+      74: 4426323664023013949
+    second: City_building_036|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: -2447992884882859777
+    second: City_building_036|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 2713262263235847009
+    second: City_building_036|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -7578079223228080568
+    second: City_building_036|Camera001|Take 001|BaseLayer
+  - first:
+      74: 6834658561057892300
+    second: City_building_036|City_building_001|Take 001|BaseLayer
+  - first:
+      74: -8567523852421697131
+    second: City_building_036|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: 8939643318414484813
+    second: City_building_036|City_building_004|Take 001|BaseLayer
+  - first:
+      74: -139816658410796524
+    second: City_building_036|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: -751802925112916102
+    second: City_building_036|City_building_007|Take 001|BaseLayer
+  - first:
+      74: -9095599753909705457
+    second: City_building_036|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: 186627732328117727
+    second: City_building_036|City_building_008|Take 001|BaseLayer
+  - first:
+      74: 7466654659768218136
+    second: City_building_036|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: -6801197494752228246
+    second: City_building_036|City_building_010|Take 001|BaseLayer
+  - first:
+      74: 4206203281844726435
+    second: City_building_036|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: -3570909504382164880
+    second: City_building_036|City_building_011|Take 001|BaseLayer
+  - first:
+      74: 1296783811973540429
+    second: City_building_036|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: 3219976646613613148
+    second: City_building_036|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: 8443552160713090723
+    second: City_building_036|City_building_013|Take 001|BaseLayer
+  - first:
+      74: -5233535156760142901
+    second: City_building_036|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: -8958374765801964075
+    second: City_building_036|City_building_014|Take 001|BaseLayer
+  - first:
+      74: 5562699505784622727
+    second: City_building_036|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: 4300469287639853795
+    second: City_building_036|City_building_016|Take 001|BaseLayer
+  - first:
+      74: -5869584020776597498
+    second: City_building_036|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: 7087405278496180735
+    second: City_building_036|City_building_017|Take 001|BaseLayer
+  - first:
+      74: 2889553311118800562
+    second: City_building_036|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: -9149146423027001407
+    second: City_building_036|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 5073407430384375023
+    second: City_building_036|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: 6352677517308138643
+    second: City_building_036|City_building_023|Take 001|BaseLayer
+  - first:
+      74: 3728770630464867445
+    second: City_building_036|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: 31593907965205427
+    second: City_building_036|City_building_024|Take 001|BaseLayer
+  - first:
+      74: 3708409336094689008
+    second: City_building_036|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: -5536837680641473189
+    second: City_building_036|City_building_026|Take 001|BaseLayer
+  - first:
+      74: 8813357104008705904
+    second: City_building_036|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: -500287759909480600
+    second: City_building_036|City_building_028|Take 001|BaseLayer
+  - first:
+      74: -5294512612631795994
+    second: City_building_036|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: 2034662042126800867
+    second: City_building_036|City_building_030|Take 001|BaseLayer
+  - first:
+      74: 6497771190625129989
+    second: City_building_036|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: -2940312180470424250
+    second: City_building_036|City_building_031|Take 001|BaseLayer
+  - first:
+      74: -5533159454014700980
+    second: City_building_036|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: 4383281697149473282
+    second: City_building_036|City_building_032|Take 001|BaseLayer
+  - first:
+      74: 706512304127511567
+    second: City_building_036|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: -7315231232798806527
+    second: City_building_036|City_building_033|Take 001|BaseLayer
+  - first:
+      74: -691086478156607533
+    second: City_building_036|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: 4845235223997533447
+    second: City_building_036|City_building_034|Take 001|BaseLayer
+  - first:
+      74: -896316166349696770
+    second: City_building_036|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: 1186218128028379161
+    second: City_building_036|City_building_035|Take 001|BaseLayer
+  - first:
+      74: -2132100461838206728
+    second: City_building_036|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: -4859860806408052138
+    second: City_building_036|City_building_036|Take 001|BaseLayer
+  - first:
+      74: -2622865908956891052
+    second: City_building_036|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: -8881719231606618170
+    second: City_building_036|City_building_037|Take 001|BaseLayer
+  - first:
+      74: -1759822099427161590
+    second: City_building_036|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: 5503489841479796714
+    second: City_building_036|City_building_038|Take 001|BaseLayer
+  - first:
+      74: 5006391771198069358
+    second: City_building_036|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: -3838552581866587192
+    second: City_building_036|City_building_039|Take 001|BaseLayer
+  - first:
+      74: -9208827813590932273
+    second: City_building_036|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: -6060375623023703680
+    second: City_building_036|City_building_040|Take 001|BaseLayer
+  - first:
+      74: 1264412678695146732
+    second: City_building_036|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: 7832982130377753259
+    second: City_building_036|City_building_041|Take 001|BaseLayer
+  - first:
+      74: 1248248800027911752
+    second: City_building_036|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: -3291956884676599126
+    second: City_building_036|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: -2923613050625522178
+    second: City_building_036|Dummy001|Take 001|BaseLayer
+  - first:
+      74: 4108829413235986374
+    second: City_building_036|Line002|Take 001|BaseLayer
+  - first:
+      74: -1795919792226002268
+    second: City_building_036|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 2345981677878547383
+    second: City_building_036|Object010|Take 001|BaseLayer
+  - first:
+      74: -2673756620547191339
+    second: City_building_036|Object010|Take 001|BaseLayer.001
+  - first:
+      74: -489286498288557433
+    second: City_building_036|Plane001|Take 001|BaseLayer
+  - first:
+      74: 5771497231126862103
+    second: City_building_036|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -6472321463857003949
+    second: City_building_036|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: 4364787198168513781
+    second: City_building_036|Sky001|Take 001|BaseLayer
+  - first:
+      74: 6288413058747205849
+    second: City_building_036|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: -172116356026838328
+    second: City_building_036|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: 1857909895571479711
+    second: City_building_036|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: 5966546482487056982
+    second: City_building_036|Spot001|Take 001|BaseLayer
+  - first:
+      74: -1107319667591394789
+    second: City_building_039|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: 631626478306957018
+    second: City_building_039|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -8683183188443019030
+    second: City_building_039|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -6686324693746168836
+    second: City_building_039|Camera001|Take 001|BaseLayer
+  - first:
+      74: 658932672731370610
+    second: City_building_039|City_building_001|Take 001|BaseLayer
+  - first:
+      74: -3428783595295070566
+    second: City_building_039|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: 4072071947027049036
+    second: City_building_039|City_building_004|Take 001|BaseLayer
+  - first:
+      74: -3624484405259898595
+    second: City_building_039|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: 5727834883731925726
+    second: City_building_039|City_building_007|Take 001|BaseLayer
+  - first:
+      74: -553595982634986200
+    second: City_building_039|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: -2118801395222807400
+    second: City_building_039|City_building_008|Take 001|BaseLayer
+  - first:
+      74: 9220451121280124914
+    second: City_building_039|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: 1840555462112032579
+    second: City_building_039|City_building_010|Take 001|BaseLayer
+  - first:
+      74: 2946597259118330968
+    second: City_building_039|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: -6402111373250321326
+    second: City_building_039|City_building_011|Take 001|BaseLayer
+  - first:
+      74: -1685016999247810087
+    second: City_building_039|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: 5888709211092448082
+    second: City_building_039|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: 8310672760343153629
+    second: City_building_039|City_building_013|Take 001|BaseLayer
+  - first:
+      74: -3674694411813454350
+    second: City_building_039|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: -7590271716754986165
+    second: City_building_039|City_building_014|Take 001|BaseLayer
+  - first:
+      74: -377041692696798774
+    second: City_building_039|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: -2465622527509300261
+    second: City_building_039|City_building_016|Take 001|BaseLayer
+  - first:
+      74: -1683923873805744919
+    second: City_building_039|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: 5356107283250103879
+    second: City_building_039|City_building_017|Take 001|BaseLayer
+  - first:
+      74: -3510041415241841095
+    second: City_building_039|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: 8435907757790741627
+    second: City_building_039|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 4187207999755913669
+    second: City_building_039|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: -642379173182023149
+    second: City_building_039|City_building_023|Take 001|BaseLayer
+  - first:
+      74: -1310294082094380601
+    second: City_building_039|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: 192407036191096901
+    second: City_building_039|City_building_024|Take 001|BaseLayer
+  - first:
+      74: -620046239565322154
+    second: City_building_039|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: -225853376093442839
+    second: City_building_039|City_building_026|Take 001|BaseLayer
+  - first:
+      74: -6838256512800262938
+    second: City_building_039|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: -6802981451394176366
+    second: City_building_039|City_building_028|Take 001|BaseLayer
+  - first:
+      74: -3753572087544446838
+    second: City_building_039|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: 3879207214821298104
+    second: City_building_039|City_building_030|Take 001|BaseLayer
+  - first:
+      74: 5829306217441609926
+    second: City_building_039|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: 1145927564600251208
+    second: City_building_039|City_building_031|Take 001|BaseLayer
+  - first:
+      74: -7749124676917096882
+    second: City_building_039|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: -6506139622900758424
+    second: City_building_039|City_building_032|Take 001|BaseLayer
+  - first:
+      74: -3247508538509807741
+    second: City_building_039|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: 240365188420054913
+    second: City_building_039|City_building_033|Take 001|BaseLayer
+  - first:
+      74: 3245801110040205132
+    second: City_building_039|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: 2081803443924240131
+    second: City_building_039|City_building_034|Take 001|BaseLayer
+  - first:
+      74: 5255613440919239059
+    second: City_building_039|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: 921057516671419263
+    second: City_building_039|City_building_035|Take 001|BaseLayer
+  - first:
+      74: -4683545992552631700
+    second: City_building_039|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 5981460041868687393
+    second: City_building_039|City_building_036|Take 001|BaseLayer
+  - first:
+      74: 8169423896552646631
+    second: City_building_039|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: 4539008277688532101
+    second: City_building_039|City_building_037|Take 001|BaseLayer
+  - first:
+      74: 658727185603200099
+    second: City_building_039|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: -2567992705549724569
+    second: City_building_039|City_building_038|Take 001|BaseLayer
+  - first:
+      74: -5680559663404258557
+    second: City_building_039|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: -7116736201996465809
+    second: City_building_039|City_building_039|Take 001|BaseLayer
+  - first:
+      74: -2689187381072919000
+    second: City_building_039|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: -679053297332547715
+    second: City_building_039|City_building_040|Take 001|BaseLayer
+  - first:
+      74: -788295495203722959
+    second: City_building_039|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: 162268159402104852
+    second: City_building_039|City_building_041|Take 001|BaseLayer
+  - first:
+      74: -4518685785030548115
+    second: City_building_039|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: 2129929878800538364
+    second: City_building_039|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: -8412506273261934525
+    second: City_building_039|Dummy001|Take 001|BaseLayer
+  - first:
+      74: -7820834462580180524
+    second: City_building_039|Line002|Take 001|BaseLayer
+  - first:
+      74: 8877491414844174497
+    second: City_building_039|Line002|Take 001|BaseLayer.001
+  - first:
+      74: -6081813056535951354
+    second: City_building_039|Object010|Take 001|BaseLayer
+  - first:
+      74: -6590366072296450898
+    second: City_building_039|Object010|Take 001|BaseLayer.001
+  - first:
+      74: 3993200272930434616
+    second: City_building_039|Plane001|Take 001|BaseLayer
+  - first:
+      74: 8925214638965486665
+    second: City_building_039|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: 4322685727106131091
+    second: City_building_039|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: 8169373425102060124
+    second: City_building_039|Sky001|Take 001|BaseLayer
+  - first:
+      74: 237395673607096525
+    second: City_building_039|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: -6585853144512326952
+    second: City_building_039|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -1179666387470458863
+    second: City_building_039|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: 1983357657030314276
+    second: City_building_039|Spot001|Take 001|BaseLayer
+  - first:
+      74: -9179716676666838416
+    second: City_building_041|Camera001.001|Take 001|BaseLayer
+  - first:
+      74: 2157320237992944137
+    second: City_building_041|Camera001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -1982625882280137725
+    second: City_building_041|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: 2696927358038562355
+    second: City_building_041|Camera001|Take 001|BaseLayer
+  - first:
+      74: -5010238743190425057
+    second: City_building_041|City_building_001|Take 001|BaseLayer
+  - first:
+      74: -3460960308004550166
+    second: City_building_041|City_building_001|Take 001|BaseLayer.001
+  - first:
+      74: -573228682080994630
+    second: City_building_041|City_building_004|Take 001|BaseLayer
+  - first:
+      74: 3277411120956089206
+    second: City_building_041|City_building_004|Take 001|BaseLayer.001
+  - first:
+      74: 5696599293354591737
+    second: City_building_041|City_building_007|Take 001|BaseLayer
+  - first:
+      74: 9100291897681762598
+    second: City_building_041|City_building_007|Take 001|BaseLayer.001
+  - first:
+      74: -802654359848900716
+    second: City_building_041|City_building_008|Take 001|BaseLayer
+  - first:
+      74: -6836829521427308189
+    second: City_building_041|City_building_008|Take 001|BaseLayer.001
+  - first:
+      74: 2038759976216961062
+    second: City_building_041|City_building_010|Take 001|BaseLayer
+  - first:
+      74: 8402220419505584103
+    second: City_building_041|City_building_010|Take 001|BaseLayer.001
+  - first:
+      74: 3914808016908867796
+    second: City_building_041|City_building_011|Take 001|BaseLayer
+  - first:
+      74: 8743182693055398887
+    second: City_building_041|City_building_011|Take 001|BaseLayer.001
+  - first:
+      74: -7856745157498044017
+    second: City_building_041|City_building_011|Take 001|BaseLayer.002
+  - first:
+      74: -3160651042266860397
+    second: City_building_041|City_building_013|Take 001|BaseLayer
+  - first:
+      74: 2536348263653714099
+    second: City_building_041|City_building_013|Take 001|BaseLayer.001
+  - first:
+      74: 7015650188246645422
+    second: City_building_041|City_building_014|Take 001|BaseLayer
+  - first:
+      74: 5379568870706165419
+    second: City_building_041|City_building_014|Take 001|BaseLayer.001
+  - first:
+      74: 2732958007944404002
+    second: City_building_041|City_building_016|Take 001|BaseLayer
+  - first:
+      74: -7060424697340025785
+    second: City_building_041|City_building_016|Take 001|BaseLayer.001
+  - first:
+      74: -8377544884246337320
+    second: City_building_041|City_building_017|Take 001|BaseLayer
+  - first:
+      74: -387498661545774898
+    second: City_building_041|City_building_017|Take 001|BaseLayer.001
+  - first:
+      74: -2349001822804213786
+    second: City_building_041|City_building_022|Take 001|BaseLayer
+  - first:
+      74: 5973283151776185485
+    second: City_building_041|City_building_022|Take 001|BaseLayer.001
+  - first:
+      74: -43241826074181385
+    second: City_building_041|City_building_023|Take 001|BaseLayer
+  - first:
+      74: -3264595334585414148
+    second: City_building_041|City_building_023|Take 001|BaseLayer.001
+  - first:
+      74: -5602601890970057676
+    second: City_building_041|City_building_024|Take 001|BaseLayer
+  - first:
+      74: 962181759189315864
+    second: City_building_041|City_building_024|Take 001|BaseLayer.001
+  - first:
+      74: -1381309500222779711
+    second: City_building_041|City_building_026|Take 001|BaseLayer
+  - first:
+      74: -3269180382278127064
+    second: City_building_041|City_building_026|Take 001|BaseLayer.001
+  - first:
+      74: -408794436385788911
+    second: City_building_041|City_building_028|Take 001|BaseLayer
+  - first:
+      74: -6009846508230515775
+    second: City_building_041|City_building_028|Take 001|BaseLayer.001
+  - first:
+      74: 7094150283813426177
+    second: City_building_041|City_building_030|Take 001|BaseLayer
+  - first:
+      74: 8408169070323159121
+    second: City_building_041|City_building_030|Take 001|BaseLayer.001
+  - first:
+      74: 2535078077760948449
+    second: City_building_041|City_building_031|Take 001|BaseLayer
+  - first:
+      74: -5423973577034901879
+    second: City_building_041|City_building_031|Take 001|BaseLayer.001
+  - first:
+      74: 4518062439447872105
+    second: City_building_041|City_building_032|Take 001|BaseLayer
+  - first:
+      74: -5746486240071625068
+    second: City_building_041|City_building_032|Take 001|BaseLayer.001
+  - first:
+      74: -4031088151627913047
+    second: City_building_041|City_building_033|Take 001|BaseLayer
+  - first:
+      74: -1629995939440462476
+    second: City_building_041|City_building_033|Take 001|BaseLayer.001
+  - first:
+      74: 5337152555484802973
+    second: City_building_041|City_building_034|Take 001|BaseLayer
+  - first:
+      74: 2139046508779012878
+    second: City_building_041|City_building_034|Take 001|BaseLayer.001
+  - first:
+      74: 3959771242878863243
+    second: City_building_041|City_building_035|Take 001|BaseLayer
+  - first:
+      74: -2333528586083585093
+    second: City_building_041|City_building_035|Take 001|BaseLayer.001
+  - first:
+      74: 5973825382288780568
+    second: City_building_041|City_building_036|Take 001|BaseLayer
+  - first:
+      74: 6126150093878417500
+    second: City_building_041|City_building_036|Take 001|BaseLayer.001
+  - first:
+      74: 8162063202928716863
+    second: City_building_041|City_building_037|Take 001|BaseLayer
+  - first:
+      74: -3273958578684031384
+    second: City_building_041|City_building_037|Take 001|BaseLayer.001
+  - first:
+      74: 2243181376056890004
+    second: City_building_041|City_building_038|Take 001|BaseLayer
+  - first:
+      74: 7237736641383478064
+    second: City_building_041|City_building_038|Take 001|BaseLayer.001
+  - first:
+      74: 5622413788125841005
+    second: City_building_041|City_building_039|Take 001|BaseLayer
+  - first:
+      74: -6430109712211546897
+    second: City_building_041|City_building_039|Take 001|BaseLayer.001
+  - first:
+      74: 1376731012659065139
+    second: City_building_041|City_building_040|Take 001|BaseLayer
+  - first:
+      74: -5317467347804677338
+    second: City_building_041|City_building_040|Take 001|BaseLayer.001
+  - first:
+      74: 8519166012068301797
+    second: City_building_041|City_building_041|Take 001|BaseLayer
+  - first:
+      74: -6806100370744459539
+    second: City_building_041|City_building_041|Take 001|BaseLayer.001
+  - first:
+      74: 2686082057501381331
+    second: City_building_041|Dummy001.001|Take 001|BaseLayer
+  - first:
+      74: 3039665215514831516
+    second: City_building_041|Dummy001|Take 001|BaseLayer
+  - first:
+      74: 8489554035245964510
+    second: City_building_041|Line002|Take 001|BaseLayer
+  - first:
+      74: 8936284702232884831
+    second: City_building_041|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 7508271154226329748
+    second: City_building_041|Object010|Take 001|BaseLayer
+  - first:
+      74: -6542037607856530848
+    second: City_building_041|Object010|Take 001|BaseLayer.001
+  - first:
+      74: -5345686977713664725
+    second: City_building_041|Plane001|Take 001|BaseLayer
+  - first:
+      74: 3559640849549495963
+    second: City_building_041|Plane001|Take 001|BaseLayer.001
+  - first:
+      74: -1072873316120663314
+    second: City_building_041|Sky001.001|Take 001|BaseLayer
+  - first:
+      74: 3083220320027496624
+    second: City_building_041|Sky001|Take 001|BaseLayer
+  - first:
+      74: -3542450684949169240
+    second: City_building_041|Spot001.001|Take 001|BaseLayer
+  - first:
+      74: -7362360327452871702
+    second: City_building_041|Spot001.Target.001|Take 001|BaseLayer
+  - first:
+      74: -1232790244990925149
+    second: City_building_041|Spot001.Target|Take 001|BaseLayer
+  - first:
+      74: 5170582353298856685
+    second: City_building_041|Spot001|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
